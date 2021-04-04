@@ -19,13 +19,13 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "THOR的个人博客"
+site_name = "T的个人博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "thor"
 email = "thon@mgzn.site"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
+description = "坚持一种正义。我的正义。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
